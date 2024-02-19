@@ -1,0 +1,4 @@
+torch==1.12.1+cu102
+transformers==4.36.0
+xgboost==2.0.3
+scikit-learn==0.23.2
