@@ -13,7 +13,7 @@ EDiReF Final Models.
 
 
 We participated in three different tasks of SemEval Task 10, and our scores are as follows:
-    task1:0.454
+    task1:0.46
     task2:0.793
     task3:0.713
 
