@@ -20,6 +20,3 @@ We participated in three different tasks of SemEval Task 10, and our scores are 
 
 
 
-## 3. Contact Information
-
-Feel free to reach out to me with any questions. My email is 1784526116@qq.com. The competition is very meaningful, and I'm considering writing a paper on it. Can you provide some suggestions?
