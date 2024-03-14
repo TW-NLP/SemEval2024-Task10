@@ -1,4 +1,4 @@
-# Team Name:TW_NLP    Team Members: Wei Tian
+# Team Name:TW_NLP    
 
 ## 1. Environment Preparation
 
